@@ -1,7 +1,0 @@
-numpy
-Flask
-pandas
-scikit-learn
-Pillow
-flask-cors
-opencv-python
