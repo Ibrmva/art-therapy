@@ -5,7 +5,7 @@ art-ai is an innovative project designed to leverage artificial intelligence for
 
 ## Installation Instructions
 To set up the project locally, follow these steps:
-1. Clone the repository: `git clone (https://github.com/Ibrmva/art-therapy.git)`
+1. Clone the repository: `git clone https://github.com/Ibrmva/art-therapy.git`
 2. Navigate to the project directory: `cd art-ai`
 3. Install the necessary dependencies: `npm install` (or any other package manager as specified)
 
