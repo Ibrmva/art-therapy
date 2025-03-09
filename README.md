@@ -11,7 +11,8 @@ To set up the project locally, follow these steps:
 
 ## Usage
 To run the project, use the following command:
-- `npm start` (or the appropriate command for your setup)
+- client:  `npm run dev` (or the appropriate command for your setup)
+- server: `node server.js`
 
 ## Contributing
 We welcome contributions! Please follow the guidelines outlined in the CONTRIBUTING.md file.
